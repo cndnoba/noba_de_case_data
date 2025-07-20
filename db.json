@@ -1,0 +1,47 @@
+{
+  "transactions": [
+    {
+      "id": "TXN001",
+      "account_id": "ACC12345",
+      "merchant_name": "Amazon.com",
+      "amount": -89.99,
+      "transaction_date": "2024-07-20T14:23:45Z",
+      "status": "completed",
+      "card_type": "debit"
+    },
+    {
+      "id": "TXN002", 
+      "account_id": "ACC12346",
+      "merchant_name": "",
+      "amount": -45.00,
+      "transaction_date": "2024-07-20T14:25:12Z",
+      "status": "pending",
+      "card_type": "credit"
+    },
+    {
+      "id": "TXN001",
+      "account_id": "ACC12345", 
+      "merchant_name": "Amazon.com",
+      "amount": -89.99,
+      "transaction_date": "2024-07-20T14:23:45Z",
+      "status": "completed",
+      "card_type": "debit"
+    }
+  ],
+  "accounts": [
+    {
+      "id": "ACC12345",
+      "customer_id": "CUST001",
+      "account_type": "checking",
+      "opening_date": "2023-01-15",
+      "status": "active"
+    }
+  ],
+  "merchants": [
+    {
+      "name": "Amazon.com",
+      "category": "retail",
+      "risk_level": "low"
+    }
+  ]
+}
