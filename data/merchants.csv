@@ -1,126 +1,126 @@
 merchant_name,merchant_category_code,category_description,risk_level,is_online,country,last_update_ts
-Rema 1000,5411,Dagligvarebutikker,low,FALSE,Norge,2024-03-10 10:05:17.370
-Narvesen,5999,Diverse Butikker,low,FALSE,Norge,2024-03-15 05:13:32.496
-XXL Sport og Villmark,5941,Sportsutstyrsbutikker,low,FALSE,Norge,2024-03-16 11:20:30.219
-Vipps Månedlig Trekk,4816,Telekommunikasjonstjenester,low,TRUE,Norge,2024-03-17 00:26:54.250
-Circle K,5541,Bensinstasjoner,low,FALSE,Norge,2024-03-19 00:57:28.257
-Vy Togbillett,4112,Jernbaner,low,TRUE,Norge,2024-03-20 13:28:28.401
-Storytel,5815,"Digitale varer, media",low,TRUE,Sverige,2024-03-27 01:09:50.503
-Agder Energi Faktura,4900,Verktøy,low,TRUE,Norge,2024-04-06 02:47:01.313
-Minibank Uttak,6011,Minibanker,low,FALSE,Norge,2024-04-07 20:20:54.040
-Bankoverføring Inn,6012,Finansinstitusjoner,low,TRUE,Norge,2024-04-12 20:23:54.917
-Renter Innskudd,6012,Finansinstitusjoner,low,FALSE,Norge,2024-04-13 19:26:52.108
-Gebyr Overtrekk,6012,Finansinstitusjoner,low,FALSE,Norge,2024-04-17 15:48:18.556
-Elkjøp,5732,Elektronikkbutikker,low,FALSE,Norge,2024-04-18 20:33:48.946
-Meny Kaffebar,5812,"Spisesteder, Restauranter",low,FALSE,Norge,2024-04-21 22:18:25.552
-Kino Sør,7832,Kinoer,low,FALSE,Norge,2024-04-23 04:07:24.718
-Ruter Billett,4111,Lokal passasjertransport,low,FALSE,Norge,2024-04-23 12:40:19.843
-Kommunale Avgifter,9211,"Skatter – Lokale, statlige og føderale",low,TRUE,Norge,2024-04-27 20:04:59.381
-Telenor Regning,4814,Telekommunikasjonstjenester,low,TRUE,Norge,2024-04-28 19:25:14.647
-Coop Obs!,5411,Dagligvarebutikker,low,FALSE,Norge,2024-04-29 06:31:13.575
-Elkjøp Web,5732,Elektronikkbutikker,low,TRUE,Norge,2024-05-01 01:21:32.594
-Bensin,5541,Bensinstasjoner,low,FALSE,Norge,2024-05-04 03:23:49.649
-Peppes Pizza,5812,"Spisesteder, Restauranter",low,FALSE,Norge,2024-05-13 04:17:30.558
-Tidal Abonnement,5815,"Digitale varer, media",low,TRUE,Norge,2024-05-13 08:40:59.172
-Jernia,5251,Jernvarebutikker,low,FALSE,Norge,2024-05-13 17:22:28.158
-SATS Abonnement,7997,Treningssentre,low,TRUE,Norge,2024-05-18 19:23:23.164
-Apotek 1,5912,"Apoteker, Medisinske butikker",low,FALSE,Norge,2024-05-19 09:29:36.591
-BIT Kaffebar,5814,Fast Food Restauranter,low,FALSE,Norge,2024-05-21 18:10:32.288
-Norli Bokhandel,5942,Bokhandlere,low,FALSE,Norge,2024-05-22 10:23:25.538
-Extra,5411,Dagligvarebutikker,low,FALSE,Norge,2024-05-22 15:55:36.494
-Bankoverføring Ut,6012,Finansinstitusjoner,low,TRUE,Norge,2024-05-22 18:48:44.606
-Restaurant Middag,5812,"Spisesteder, Restauranter",low,FALSE,Norge,2024-05-23 03:39:28.438
-Vitapark Apotek,5912,"Apoteker, Medisinske butikker",low,FALSE,Norge,2024-05-30 13:25:45.917
-Shell Stasjon,5541,Bensinstasjoner,low,FALSE,Norge,2024-06-01 15:33:35.315
-Komplett.no,5310,Varehus,low,TRUE,Norge,2024-06-01 21:29:41.435
-SAS Billett,3060,Flyselskaper,medium,TRUE,Norge,2024-06-05 21:06:00.686
-Tannlegekontor,8021,Tannleger,low,FALSE,Norge,2024-06-07 11:22:16.999
-Steam Spil,5816,Digitale varer – Spill,medium,TRUE,Norge,2024-06-08 12:16:07.739
-Mekonomen,7538,Bilverksteder,low,FALSE,Norge,2024-06-09 09:57:04.965
-Meny,5411,Dagligvarebutikker,low,FALSE,Norge,2024-06-12 11:55:49.334
-G-Sport,5941,Sportsutstyrsbutikker,low,FALSE,Norge,2024-06-12 17:19:17.142
-Dagens Middag,5812,"Spisesteder, Restauranter",low,FALSE,Norge,2024-06-16 18:42:54.602
-Europris,5310,Varehus,low,FALSE,Norge,2024-06-19 03:14:49.076
-Burger King,5814,Fast Food Restauranter,low,FALSE,Norge,2024-06-23 02:54:35.841
-Strømregning,4900,Verktøy,low,TRUE,Norge,2024-06-28 02:42:06.036
-Ticketmaster Billetter,7991,Turistattraksjoner og Tjenester,medium,TRUE,Norge,2024-06-29 02:45:09.537
-Deli de Luca Kaffe,5812,"Spisesteder, Restauranter",low,FALSE,Norge,2024-06-29 15:12:12.287
-ODEON Kino,7832,Kinoer,low,FALSE,Norge,2024-07-04 13:12:02.039
-Bussbillett,4111,Lokal passasjertransport,low,FALSE,Norge,2024-07-06 02:07:25.724
-Vann og Avløp,4900,Verktøy,low,TRUE,Norge,2024-07-11 23:10:24.280
-Telia Bredbånd,4816,Telekommunikasjonstjenester,low,TRUE,Norge,2024-07-13 10:37:56.633
-CDON.COM,5310,Varehus,low,TRUE,Norge,2024-07-15 01:07:29.772
-Meny Supermarked,5411,Dagligvarebutikker,low,FALSE,Norge,2024-07-15 06:49:24.595
-Espresso House,5812,"Spisesteder, Restauranter",low,FALSE,Norge,2024-07-22 13:42:22.071
-Finnair,3060,Flyselskaper,medium,TRUE,Finland,2024-07-25 02:06:15.521
-Vitus Apotek,5912,"Apoteker, Medisinske butikker",low,FALSE,Norge,2024-07-26 05:32:14.082
-Netflix Abonnement,5815,"Digitale varer, media",low,TRUE,USA,2024-07-28 23:42:25.457
-Obs Bygg,5211,Byggvarehus,low,FALSE,Norge,2024-08-02 02:10:52.338
-Frisørsalong,7230,Frisører,low,FALSE,Norge,2024-08-02 22:02:24.777
-Restaurant Mat,5812,"Spisesteder, Restauranter",low,FALSE,Norge,2024-08-03 23:56:07.015
-Esso,5541,Bensinstasjoner,low,FALSE,Norge,2024-08-05 13:40:29.718
-NetOnNet,5310,Varehus,low,TRUE,Sverige,2024-08-05 22:31:16.183
-Godt Brød,5814,Fast Food Restauranter,low,FALSE,Norge,2024-08-14 03:57:51.030
-Snap Drive,7538,Bilverksteder,low,FALSE,Norge,2024-08-14 18:57:42.225
-Coursera,8299,Skoler og utdanningsinstitusjoner,low,TRUE,USA,2024-08-16 00:14:40.174
-Fondsutbetaling,6211,Verdipapirmeglere,medium,TRUE,Norge,2024-08-16 13:11:38.866
-Sentrum Scene Billetter,7991,Turistattraksjoner og Tjenester,medium,TRUE,Norge,2024-08-17 04:08:31.705
-Buddy,5995,Dyrebutikker,low,FALSE,Norge,2024-08-19 13:27:20.834
-Nille,5947,Gavebutikker,low,FALSE,Norge,2024-08-23 20:10:45.270
-Egon,5812,"Spisesteder, Restauranter",low,FALSE,Norge,2024-08-26 17:17:29.231
-H&M,5691,Dame- og Herreklær,low,FALSE,Norge,2024-08-28 07:02:40.499
-Lokal Marked,5499,Diverse matvarebutikker,low,FALSE,Norge,2024-09-01 02:21:22.085
-Hydro Texaco,5541,Bensinstasjoner,low,FALSE,Norge,2024-09-02 15:50:23.193
-Ditt Apotek,5912,"Apoteker, Medisinske butikker",low,FALSE,Norge,2024-09-06 06:16:54.157
-McDonald's,5814,Fast Food Restauranter,low,FALSE,Norge,2024-09-07 06:30:57.297
-Elektrisk Bill,4900,Verktøy,low,TRUE,Norge,2024-09-12 06:39:44.595
-Ark Bokhandel,5942,Bokhandlere,low,TRUE,Norge,2024-09-16 03:08:07.544
-Kaffebrenneriet,5814,Fast Food Restauranter,low,FALSE,Norge,2024-09-23 06:30:02.196
-Kino Billetter,7832,Kinoer,low,FALSE,Norge,2024-09-25 14:28:00.275
-Apollo Reiser,4722,Reisebyråer og turoperatører,high,TRUE,Norge,2024-09-26 18:43:02.804
-Kitch'n,5310,Varehus,low,TRUE,Norge,2024-10-04 05:18:20.849
-Restaurant Aften,5812,"Spisesteder, Restauranter",low,FALSE,Norge,2024-10-05 13:21:23.545
-Widerøe,3060,Flyselskaper,medium,TRUE,Norge,2024-10-06 13:24:21.437
-Blockbuster Film,7841,Videoutleie,low,TRUE,Norge,2024-10-07 15:49:36.254
-Sykehusapoteket,5912,"Apoteker, Medisinske butikker",low,FALSE,Norge,2024-10-09 06:48:30.100
-Statoil,5541,Bensinstasjoner,low,FALSE,Norge,2024-10-11 22:56:20.495
-Tanum Bokhandel,5942,Bokhandlere,low,FALSE,Norge,2024-10-14 16:16:20.446
-Adam og Eva Frisør,7230,Frisører,low,FALSE,Norge,2024-10-15 02:47:29.947
-Udemy Kurs,8299,Skoler og utdanningsinstitusjoner,low,TRUE,USA,2024-10-15 23:15:05.128
-Trofast Dyrebutikk,5995,Dyrebutikker,low,FALSE,Norge,2024-10-15 23:27:02.279
-McDonald's,5814,Fast Food Restauranter,low,FALSE,Norge,2024-10-18 04:11:25.537
-Waynes Coffee,5814,Fast Food Restauranter,low,FALSE,Norge,2024-10-19 02:45:55.802
-Nextory Abonnement,5815,"Digitale varer, media",low,TRUE,Norge,2024-10-19 13:41:33.895
-KLM Flybillett,3060,Flyselskaper,medium,TRUE,Nederland,2024-10-24 10:27:05.312
-Baker Hansen,5814,Fast Food Restauranter,low,FALSE,Norge,2024-10-24 17:50:33.358
-Boozt.com,5699,Accessory & Apparel Stores,low,TRUE,Sverige,2024-10-26 04:43:05.998
-Fresh Fitness,7997,Treningssentre,low,TRUE,Norge,2024-11-06 06:10:13.552
-Aksjesalg,6211,Verdipapirmeglere,medium,TRUE,Norge,2024-11-06 09:35:02.062
-Restaurant Olivia,5812,"Spisesteder, Restauranter",low,FALSE,Norge,2024-11-06 21:40:00.769
-Biltvask,7542,Bilvask,low,FALSE,Norge,2024-11-10 02:52:24.528
-Nintendo eShop,5816,Digitale varer – Spill,medium,TRUE,Japan,2024-11-11 01:20:05.903
-Joker,5411,Dagligvarebutikker,low,FALSE,Norge,2024-11-13 11:42:33.603
-Telia Butikk,5732,Telekommunikasjonsutstyr,low,FALSE,Norge,2024-11-16 02:58:01.889
-NRK Licens,4899,Kabel- og andre betal-TV-tjenester,low,TRUE,Norge,2024-11-20 17:37:02.992
-Fredrikstad Kino,7832,Kinoer,low,FALSE,Norge,2024-11-22 04:26:10.357
-Hjem og Fritid,5310,Varehus,low,TRUE,Norge,2024-11-25 12:01:31.122
-Playstation Store,5816,Digitale varer – Spill,medium,TRUE,USA,2024-11-29 08:25:12.607
-Coop Prix,5411,Dagligvarebutikker,low,FALSE,Norge,2024-11-29 08:26:28.748
-Subway,5814,Fast Food Restauranter,low,FALSE,Norge,2024-11-30 15:30:05.369
-Lindex,5699,Accessory & Apparel Stores,low,TRUE,Norge,2024-12-01 04:56:52.448
-Skeidar,5712,Møbelbutikker,low,FALSE,Norge,2024-12-01 14:44:08.544
-SF Anytime,7841,Videoutleie,low,TRUE,Sverige,2024-12-02 03:48:30.028
-Jafs,5814,Fast Food Restauranter,low,FALSE,Norge,2024-12-03 11:23:03.863
-TV 2 Play,5815,"Digitale varer, media",low,TRUE,Norge,2024-12-03 21:03:47.952
-Best Stasjon,5541,Bensinstasjoner,low,FALSE,Norge,2024-12-05 14:12:01.345
-Pluralsight Kurs,8299,Skoler og utdanningsinstitusjoner,low,TRUE,USA,2024-12-08 04:57:01.318
-Max Hamburger,5814,Fast Food Restauranter,low,FALSE,Norge,2024-12-08 10:48:02.154
-Elon,5732,Elektronikkbutikker,low,FALSE,Norge,2024-12-20 00:08:02.460
-Kid Interiør,5310,Varehus,low,TRUE,Norge,2024-12-21 05:12:41.416
-Spar,5411,Dagligvarebutikker,low,FALSE,Norge,2024-12-21 22:24:01.967
-Viken Kommunale Avgifter,9211,"Skatter – Lokale, statlige og føderale",low,TRUE,Norge,2024-12-22 19:35:09.532
-KinoCity,7832,Kinoer,low,FALSE,Norge,2024-12-25 01:32:05.970
-Jernia.no,5310,Varehus,low,TRUE,Norge,2024-12-25 23:30:34.756
-Telia Play,4899,Kabel- og andre betal-TV-tjenester,low,TRUE,Norge,2024-12-26 06:28:25.248
-Cutters,7230,Frisører,low,FALSE,Norge,2024-12-26 09:30:56.990
-Pølsebu,5812,"Spisesteder, Restauranter",low,FALSE,Norge,2024-12-30 11:23:22.045
+Rema 1000,5411,Dagligvarebutikker,low,false,Norge,2024-03-10 10:05:17.370
+Narvesen,5999,Diverse Butikker,low,false,Norge,2024-03-15 05:13:32.496
+XXL Sport og Villmark,5941,Sportsutstyrsbutikker,low,false,Norge,2024-03-16 11:20:30.219
+Vipps Månedlig Trekk,4816,Telekommunikasjonstjenester,low,true,Norge,2024-03-17 00:26:54.250
+Circle K,5541,Bensinstasjoner,low,false,Norge,2024-03-19 00:57:28.257
+Vy Togbillett,4112,Jernbaner,low,true,Norge,2024-03-20 13:28:28.401
+Storytel,5815,"Digitale varer, media",low,true,Sverige,2024-03-27 01:09:50.503
+Agder Energi Faktura,4900,Verktøy,low,true,Norge,2024-04-06 02:47:01.313
+Minibank Uttak,6011,Minibanker,low,false,Norge,2024-04-07 20:20:54.040
+Bankoverføring Inn,6012,Finansinstitusjoner,low,true,Norge,2024-04-12 20:23:54.917
+Renter Innskudd,6012,Finansinstitusjoner,low,false,Norge,2024-04-13 19:26:52.108
+Gebyr Overtrekk,6012,Finansinstitusjoner,low,false,Norge,2024-04-17 15:48:18.556
+Elkjøp,5732,Elektronikkbutikker,low,false,Norge,2024-04-18 20:33:48.946
+Meny Kaffebar,5812,"Spisesteder, Restauranter",low,false,Norge,2024-04-21 22:18:25.552
+Kino Sør,7832,Kinoer,low,false,Norge,2024-04-23 04:07:24.718
+Ruter Billett,4111,Lokal passasjertransport,low,false,Norge,2024-04-23 12:40:19.843
+Kommunale Avgifter,9211,"Skatter – Lokale, statlige og føderale",low,true,Norge,2024-04-27 20:04:59.381
+Telenor Regning,4814,Telekommunikasjonstjenester,low,true,Norge,2024-04-28 19:25:14.647
+Coop Obs!,5411,Dagligvarebutikker,low,false,Norge,2024-04-29 06:31:13.575
+Elkjøp Web,5732,Elektronikkbutikker,low,true,Norge,2024-05-01 01:21:32.594
+Bensin,5541,Bensinstasjoner,low,false,Norge,2024-05-04 03:23:49.649
+Peppes Pizza,5812,"Spisesteder, Restauranter",low,false,Norge,2024-05-13 04:17:30.558
+Tidal Abonnement,5815,"Digitale varer, media",low,true,Norge,2024-05-13 08:40:59.172
+Jernia,5251,Jernvarebutikker,low,false,Norge,2024-05-13 17:22:28.158
+SATS Abonnement,7997,Treningssentre,low,true,Norge,2024-05-18 19:23:23.164
+Apotek 1,5912,"Apoteker, Medisinske butikker",low,false,Norge,2024-05-19 09:29:36.591
+BIT Kaffebar,5814,Fast Food Restauranter,low,false,Norge,2024-05-21 18:10:32.288
+Norli Bokhandel,5942,Bokhandlere,low,false,Norge,2024-05-22 10:23:25.538
+Extra,5411,Dagligvarebutikker,low,false,Norge,2024-05-22 15:55:36.494
+Bankoverføring Ut,6012,Finansinstitusjoner,low,true,Norge,2024-05-22 18:48:44.606
+Restaurant Middag,5812,"Spisesteder, Restauranter",low,false,Norge,2024-05-23 03:39:28.438
+Vitapark Apotek,5912,"Apoteker, Medisinske butikker",low,false,Norge,2024-05-30 13:25:45.917
+Shell Stasjon,5541,Bensinstasjoner,low,false,Norge,2024-06-01 15:33:35.315
+Komplett.no,5310,Varehus,low,true,Norge,2024-06-01 21:29:41.435
+SAS Billett,3060,Flyselskaper,medium,true,Norge,2024-06-05 21:06:00.686
+Tannlegekontor,8021,Tannleger,low,false,Norge,2024-06-07 11:22:16.999
+Steam Spil,5816,Digitale varer – Spill,medium,true,Norge,2024-06-08 12:16:07.739
+Mekonomen,7538,Bilverksteder,low,false,Norge,2024-06-09 09:57:04.965
+Meny,5411,Dagligvarebutikker,low,false,Norge,2024-06-12 11:55:49.334
+G-Sport,5941,Sportsutstyrsbutikker,low,false,Norge,2024-06-12 17:19:17.142
+Dagens Middag,5812,"Spisesteder, Restauranter",low,false,Norge,2024-06-16 18:42:54.602
+Europris,5310,Varehus,low,false,Norge,2024-06-19 03:14:49.076
+Burger King,5814,Fast Food Restauranter,low,false,Norge,2024-06-23 02:54:35.841
+Strømregning,4900,Verktøy,low,true,Norge,2024-06-28 02:42:06.036
+Ticketmaster Billetter,7991,Turistattraksjoner og Tjenester,medium,true,Norge,2024-06-29 02:45:09.537
+Deli de Luca Kaffe,5812,"Spisesteder, Restauranter",low,false,Norge,2024-06-29 15:12:12.287
+ODEON Kino,7832,Kinoer,low,false,Norge,2024-07-04 13:12:02.039
+Bussbillett,4111,Lokal passasjertransport,low,false,Norge,2024-07-06 02:07:25.724
+Vann og Avløp,4900,Verktøy,low,true,Norge,2024-07-11 23:10:24.280
+Telia Bredbånd,4816,Telekommunikasjonstjenester,low,true,Norge,2024-07-13 10:37:56.633
+CDON.COM,5310,Varehus,low,true,Norge,2024-07-15 01:07:29.772
+Meny Supermarked,5411,Dagligvarebutikker,low,false,Norge,2024-07-15 06:49:24.595
+Espresso House,5812,"Spisesteder, Restauranter",low,false,Norge,2024-07-22 13:42:22.071
+Finnair,3060,Flyselskaper,medium,true,Finland,2024-07-25 02:06:15.521
+Vitus Apotek,5912,"Apoteker, Medisinske butikker",low,false,Norge,2024-07-26 05:32:14.082
+Netflix Abonnement,5815,"Digitale varer, media",low,true,USA,2024-07-28 23:42:25.457
+Obs Bygg,5211,Byggvarehus,low,false,Norge,2024-08-02 02:10:52.338
+Frisørsalong,7230,Frisører,low,false,Norge,2024-08-02 22:02:24.777
+Restaurant Mat,5812,"Spisesteder, Restauranter",low,false,Norge,2024-08-03 23:56:07.015
+Esso,5541,Bensinstasjoner,low,false,Norge,2024-08-05 13:40:29.718
+NetOnNet,5310,Varehus,low,true,Sverige,2024-08-05 22:31:16.183
+Godt Brød,5814,Fast Food Restauranter,low,false,Norge,2024-08-14 03:57:51.030
+Snap Drive,7538,Bilverksteder,low,false,Norge,2024-08-14 18:57:42.225
+Coursera,8299,Skoler og utdanningsinstitusjoner,low,true,USA,2024-08-16 00:14:40.174
+Fondsutbetaling,6211,Verdipapirmeglere,medium,true,Norge,2024-08-16 13:11:38.866
+Sentrum Scene Billetter,7991,Turistattraksjoner og Tjenester,medium,true,Norge,2024-08-17 04:08:31.705
+Buddy,5995,Dyrebutikker,low,false,Norge,2024-08-19 13:27:20.834
+Nille,5947,Gavebutikker,low,false,Norge,2024-08-23 20:10:45.270
+Egon,5812,"Spisesteder, Restauranter",low,false,Norge,2024-08-26 17:17:29.231
+H&M,5691,Dame- og Herreklær,low,false,Norge,2024-08-28 07:02:40.499
+Lokal Marked,5499,Diverse matvarebutikker,low,false,Norge,2024-09-01 02:21:22.085
+Hydro Texaco,5541,Bensinstasjoner,low,false,Norge,2024-09-02 15:50:23.193
+Ditt Apotek,5912,"Apoteker, Medisinske butikker",low,false,Norge,2024-09-06 06:16:54.157
+McDonald's,5814,Fast Food Restauranter,low,false,Norge,2024-09-07 06:30:57.297
+Elektrisk Bill,4900,Verktøy,low,true,Norge,2024-09-12 06:39:44.595
+Ark Bokhandel,5942,Bokhandlere,low,true,Norge,2024-09-16 03:08:07.544
+Kaffebrenneriet,5814,Fast Food Restauranter,low,false,Norge,2024-09-23 06:30:02.196
+Kino Billetter,7832,Kinoer,low,false,Norge,2024-09-25 14:28:00.275
+Apollo Reiser,4722,Reisebyråer og turoperatører,high,true,Norge,2024-09-26 18:43:02.804
+Kitch'n,5310,Varehus,low,true,Norge,2024-10-04 05:18:20.849
+Restaurant Aften,5812,"Spisesteder, Restauranter",low,false,Norge,2024-10-05 13:21:23.545
+Widerøe,3060,Flyselskaper,medium,true,Norge,2024-10-06 13:24:21.437
+Blockbuster Film,7841,Videoutleie,low,true,Norge,2024-10-07 15:49:36.254
+Sykehusapoteket,5912,"Apoteker, Medisinske butikker",low,false,Norge,2024-10-09 06:48:30.100
+Statoil,5541,Bensinstasjoner,low,false,Norge,2024-10-11 22:56:20.495
+Tanum Bokhandel,5942,Bokhandlere,low,false,Norge,2024-10-14 16:16:20.446
+Adam og Eva Frisør,7230,Frisører,low,false,Norge,2024-10-15 02:47:29.947
+Udemy Kurs,8299,Skoler og utdanningsinstitusjoner,low,true,USA,2024-10-15 23:15:05.128
+Trofast Dyrebutikk,5995,Dyrebutikker,low,false,Norge,2024-10-15 23:27:02.279
+McDonald's,5814,Fast Food Restauranter,low,false,Norge,2024-10-18 04:11:25.537
+Waynes Coffee,5814,Fast Food Restauranter,low,false,Norge,2024-10-19 02:45:55.802
+Nextory Abonnement,5815,"Digitale varer, media",low,true,Norge,2024-10-19 13:41:33.895
+KLM Flybillett,3060,Flyselskaper,medium,true,Nederland,2024-10-24 10:27:05.312
+Baker Hansen,5814,Fast Food Restauranter,low,false,Norge,2024-10-24 17:50:33.358
+Boozt.com,5699,Accessory & Apparel Stores,low,true,Sverige,2024-10-26 04:43:05.998
+Fresh Fitness,7997,Treningssentre,low,true,Norge,2024-11-06 06:10:13.552
+Aksjesalg,6211,Verdipapirmeglere,medium,true,Norge,2024-11-06 09:35:02.062
+Restaurant Olivia,5812,"Spisesteder, Restauranter",low,false,Norge,2024-11-06 21:40:00.769
+Biltvask,7542,Bilvask,low,false,Norge,2024-11-10 02:52:24.528
+Nintendo eShop,5816,Digitale varer – Spill,medium,true,Japan,2024-11-11 01:20:05.903
+Joker,5411,Dagligvarebutikker,low,false,Norge,2024-11-13 11:42:33.603
+Telia Butikk,5732,Telekommunikasjonsutstyr,low,false,Norge,2024-11-16 02:58:01.889
+NRK Licens,4899,Kabel- og andre betal-TV-tjenester,low,true,Norge,2024-11-20 17:37:02.992
+Fredrikstad Kino,7832,Kinoer,low,false,Norge,2024-11-22 04:26:10.357
+Hjem og Fritid,5310,Varehus,low,true,Norge,2024-11-25 12:01:31.122
+Playstation Store,5816,Digitale varer – Spill,medium,true,USA,2024-11-29 08:25:12.607
+Coop Prix,5411,Dagligvarebutikker,low,false,Norge,2024-11-29 08:26:28.748
+Subway,5814,Fast Food Restauranter,low,false,Norge,2024-11-30 15:30:05.369
+Lindex,5699,Accessory & Apparel Stores,low,true,Norge,2024-12-01 04:56:52.448
+Skeidar,5712,Møbelbutikker,low,false,Norge,2024-12-01 14:44:08.544
+SF Anytime,7841,Videoutleie,low,true,Sverige,2024-12-02 03:48:30.028
+Jafs,5814,Fast Food Restauranter,low,false,Norge,2024-12-03 11:23:03.863
+TV 2 Play,5815,"Digitale varer, media",low,true,Norge,2024-12-03 21:03:47.952
+Best Stasjon,5541,Bensinstasjoner,low,false,Norge,2024-12-05 14:12:01.345
+Pluralsight Kurs,8299,Skoler og utdanningsinstitusjoner,low,true,USA,2024-12-08 04:57:01.318
+Max Hamburger,5814,Fast Food Restauranter,low,false,Norge,2024-12-08 10:48:02.154
+Elon,5732,Elektronikkbutikker,low,false,Norge,2024-12-20 00:08:02.460
+Kid Interiør,5310,Varehus,low,true,Norge,2024-12-21 05:12:41.416
+Spar,5411,Dagligvarebutikker,low,false,Norge,2024-12-21 22:24:01.967
+Viken Kommunale Avgifter,9211,"Skatter – Lokale, statlige og føderale",low,true,Norge,2024-12-22 19:35:09.532
+KinoCity,7832,Kinoer,low,false,Norge,2024-12-25 01:32:05.970
+Jernia.no,5310,Varehus,low,true,Norge,2024-12-25 23:30:34.756
+Telia Play,4899,Kabel- og andre betal-TV-tjenester,low,true,Norge,2024-12-26 06:28:25.248
+Cutters,7230,Frisører,low,false,Norge,2024-12-26 09:30:56.990
+Pølsebu,5812,"Spisesteder, Restauranter",low,false,Norge,2024-12-30 11:23:22.045
