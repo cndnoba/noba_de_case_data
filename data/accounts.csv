@@ -1,28 +1,28 @@
-account_id,customer_id,customer_name,account_type,opening_date,status,balance,credit_limit,risk_score,branch_id,last_updated_timestamp
-ACC12345,CUST001,Ida Olsen,checking,2022-01-01,active,15000.75,,30,BR001,
-ACC67890,CUST002,Lars Hansen,credit,2021-05-10,active,-5000,50000,70,BR002,
-ACC98765,CUST003,Silje Berg,savings,2023-03-20,active,120000.5,,10,BR003,
-ACC11223,CUST004,Espen Dahl,checking,2022-11-15,active,8000.2,,40,BR001,
-ACC44556,CUST005,Mari Jensen,business,2020-08-01,active,250000,,25,BR004,
-ACC77889,CUST006,Per Nordmann,savings,2023-01-01,active,50000,,15,BR002,
-ACC10101,CUST007,Hanna Pettersen,checking,2021-09-01,active,12000,,35,BR005,
-ACC22334,CUST008,Martin Johansen,credit,2022-04-01,active,-15000,75000,80,BR003,
-ACC55667,CUST009,Ingrid Andreassen,checking,2023-07-01,active,3000.5,,50,BR004,
-ACC88776,CUST010,Jakob Kristiansen,business,2021-02-10,active,300000,,20,BR005,
-ACC00000,CUST011,Inaktiv Kunde,savings,2020-01-01,closed,0,,0,BR001,
-ACC99999,CUST012,Ugyldig Konto,checking,2023-01-01,active,10000,,20,BR001,
-ACC00100,CUST013,Line Andersen,checking,2023-02-15,active,9000,,30,BR001,
-ACC00101,CUST014,Sindre Eriksen,savings,2022-07-01,active,75000,,20,BR002,
-ACC00102,CUST015,Anna Larsen,credit,2021-09-20,active,-8000,60000,75,BR003,
-ACC00103,CUST016,Erik Kristoffersen,business,2020-03-01,active,180000,,28,BR004,
-ACC00104,CUST017,Nora Fredriksen,checking,2023-04-10,suspended,500,,60,BR005,
-ACC00105,CUST018,Oscar Johannessen,savings,2022-06-01,active,90000,,18,BR001,
-ACC00106,CUST019,Frida Moe,credit,2021-11-05,active,-2000,40000,65,BR002,
-ACC00107,CUST020,Gustav Dahl,checking,2023-08-01,active,11000,,25,BR003,
-ACC00108,CUST021,Tiril Ruud,business,2020-05-20,frozen,5000,,90,BR004,
-ACC00109,CUST022,Ulrik Pedersen,savings,2022-02-01,active,150000,,12,BR005,
-ACC00110,CUST023,Vilde Solberg,checking,2023-06-15,active,7000,,45,BR001,
-ACC00111,CUST024,William Lie,credit,2021-03-10,active,-1000,30000,55,BR002,
-ACC00112,CUST025,Ylva Nilsen,business,2020-09-01,active,200000,,30,BR003,
-ACC00113,CUST026,Zara Bjørnstad,checking,2023-01-20,active,1000,,5,BR004,
-ACC00114,CUST027,Åsmund Eide,savings,2022-10-01,active,60000,,10,BR005,
+account_id,customer_id,customer_name,account_type,opening_date,status,balance,credit_limit,risk_score,branch_id,last_update_ts
+ACC12345,CUST001,Ida Olsen,checking,1/1/2022,active,15000.75,,30,BR001,2024-01-04 21:22:29.584
+ACC67890,CUST002,Lars Hansen,credit,5/10/2021,active,-5000,50000,70,BR002,2024-01-06 00:04:02.013
+ACC98765,CUST003,Silje Berg,savings,3/20/2023,active,120000.5,,10,BR003,2024-01-14 09:05:45.394
+ACC11223,CUST004,Espen Dahl,checking,11/15/2022,active,8000.2,,40,BR001,2024-01-18 18:07:21.737
+ACC44556,CUST005,Mari Jensen,business,8/1/2020,active,250000,,25,BR004,2024-01-20 20:50:10.600
+ACC77889,CUST006,Per Nordmann,savings,1/1/2023,active,50000,,15,BR002,2024-01-25 20:53:15.763
+ACC10101,CUST007,Hanna Pettersen,checking,9/1/2021,active,12000,,35,BR005,2024-01-30 17:38:54.313
+ACC22334,CUST008,Martin Johansen,credit,4/1/2022,active,-15000,75000,80,BR003,2024-01-31 04:39:38.440
+ACC55667,CUST009,Ingrid Andreassen,checking,7/1/2023,active,3000.5,,50,BR004,2024-02-01 12:13:07.669
+ACC88776,CUST010,Jakob Kristiansen,business,2/10/2021,active,300000,,20,BR005,2024-02-01 18:29:54.448
+ACC00000,CUST011,Inaktiv Kunde,savings,1/1/2020,closed,0,,0,BR001,2024-02-02 22:02:11.458
+ACC99999,CUST012,Ugyldig Konto,checking,1/1/2023,active,10000,,20,BR001,2024-02-03 09:24:32.905
+ACC00100,CUST013,Line Andersen,checking,2/15/2023,active,9000,,30,BR001,2024-02-05 10:49:31.949
+ACC00101,CUST014,Sindre Eriksen,savings,7/1/2022,active,75000,,20,BR002,2024-02-06 18:37:34.061
+ACC00102,CUST015,Anna Larsen,credit,9/20/2021,active,-8000,60000,75,BR003,2024-02-10 03:40:42.065
+ACC00103,CUST016,Erik Kristoffersen,business,3/1/2020,active,180000,,28,BR004,2024-02-12 05:07:16.369
+ACC00104,CUST017,Nora Fredriksen,checking,4/10/2023,suspended,500,,60,BR005,2024-02-17 21:26:12.418
+ACC00105,CUST018,Oscar Johannessen,savings,6/1/2022,active,90000,,18,BR001,2024-02-18 16:22:20.346
+ACC00106,CUST019,Frida Moe,credit,11/5/2021,active,-2000,40000,65,BR002,2024-02-20 12:48:58.285
+ACC00107,CUST020,Gustav Dahl,checking,8/1/2023,active,11000,,25,BR003,2024-02-28 10:55:26.985
+ACC00108,CUST021,Tiril Ruud,business,5/20/2020,frozen,5000,,90,BR004,2024-03-03 02:18:26.835
+ACC00109,CUST022,Ulrik Pedersen,savings,2/1/2022,active,150000,,12,BR005,2024-03-03 06:11:50.772
+ACC00110,CUST023,Vilde Solberg,checking,6/15/2023,active,7000,,45,BR001,2024-03-04 02:18:01.867
+ACC00111,CUST024,William Lie,credit,3/10/2021,active,-1000,30000,55,BR002,2024-03-05 00:43:52.602
+ACC00112,CUST025,Ylva Nilsen,business,9/1/2020,active,200000,,30,BR003,2024-03-06 22:32:40.210
+ACC00113,CUST026,Zara Bjørnstad,checking,1/20/2023,active,1000,,5,BR004,2024-03-07 05:30:59.880
+ACC00114,CUST027,Åsmund Eide,savings,10/1/2022,active,60000,,10,BR005,2024-03-09 08:59:35.595
