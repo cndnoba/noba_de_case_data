@@ -1,0 +1,11 @@
+branch_id,branch_name,city,state,region,manager_name
+BR001,DNB Sentrum,Oslo,Oslo,Østlandet,Anne Berglund
+BR002,SpareBank 1 Midtbyen,Trondheim,Trøndelag,Trøndelag,Bjørn Pedersen
+BR003,Nordea Stavanger,Stavanger,Rogaland,Vestlandet,Cathrine Ruud
+BR004,Handelsbanken Kristiansand,Kristiansand,Agder,Sørlandet,Dagfinn Olsen
+BR005,Sbanken Tromsø,Tromsø,Troms og Finnmark,Nord-Norge,Elin Johansen
+BR006,Sparebanken Vest Bergen,Bergen,Vestland,Vestlandet,Frank Dahl
+BR007,DNB Drammen,Drammen,Viken,Østlandet,Grete Larsen
+BR008,SpareBank 1 Østlandet Sandefjord,Sandefjord,Vestfold og Telemark,Østlandet,Håkon Moe
+BR009,BN Bank Fredrikstad,Fredrikstad,Viken,Østlandet,Ingunn Nilsen
+BR010,Danske Bank Oslo,Oslo,Oslo,Østlandet,Jonas Karlsen
